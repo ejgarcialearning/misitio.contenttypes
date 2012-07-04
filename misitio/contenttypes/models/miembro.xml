@@ -1,0 +1,28 @@
+<model xmlns="http://namespaces.plone.org/supermodel/schema">
+  <schema>
+    <field name="nombre" type="zope.schema.TextLine">
+      <description>Nombre</description>
+      <title>Nombre</title>
+    </field>
+    <field name="apellido" type="zope.schema.TextLine">
+      <description>Apellido</description>
+      <title>Apellido</title>
+    </field>
+    <field name="cedula_de_indentidad" type="zope.schema.TextLine">
+      <description>C&#233;dula de indentidad</description>
+      <title>cedula de indentidad</title>
+    </field>
+    <field name="direcci_n_f_sica" type="zope.schema.TextLine">
+      <description>Direcci&#243;n Fisica</description>
+      <title>Direcci&#243;n F&#237;sica</title>
+    </field>
+    <field name="direccion_electronica" type="zope.schema.TextLine">
+      <description>Direcci&#243;n Electr&#243;nica</description>
+      <title>Direccion Electronica</title>
+    </field>
+    <field name="twitter" type="zope.schema.TextLine">
+      <description>Twitter</description>
+      <title>Twitter</title>
+    </field>
+  </schema>
+</model>
