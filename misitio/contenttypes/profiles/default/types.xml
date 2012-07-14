@@ -2,6 +2,6 @@
 <object name="portal_types" meta_type="Plone Types Tool">
  <property
     name="title">Controls the available content types in your portal</property>
- <object name="consejo_comunal" meta_type="Dexterity FTI"/>
- <object name="miembro" meta_type="Dexterity FTI"/>
+ <object name="misitio.contenttypes.consejo_comunal" meta_type="Dexterity FTI"/>
+ <object name="misitio.contenttypes.miembro" meta_type="Dexterity FTI"/>
 </object>
